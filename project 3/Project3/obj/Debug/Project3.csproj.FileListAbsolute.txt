@@ -1,0 +1,63 @@
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\Project3.exe.config
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\Project3.exe
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\Project3.pdb
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\Elmah.dll
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\LiveCharts.dll
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\LiveCharts.pdb
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\LiveCharts.xml
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\obj\Debug\Project3.Form1.resources
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\obj\Debug\Project3.Properties.Resources.resources
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\obj\Debug\Project3.csproj.GenerateResource.cache
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\obj\Debug\Project3.csproj.CopyComplete
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\obj\Debug\Project3.exe
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\obj\Debug\Project3.pdb
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\MySql.Data.dll
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\MySql.Web.dll
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\MySql.Data.xml
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\bin\Debug\MySql.Web.xml
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\obj\Debug\Project3.exe.config
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\obj\Debug\Project3.Form2.resources
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\obj\Debug\Project3.Form4.resources
+C:\Users\Claudio\Dropbox\Informatica\Project\C#\Project3\Project3\obj\Debug\Project_3.Form5.resources
+E:\project 3 nieuw\Project3\bin\Debug\Project3.exe.config
+E:\project 3 nieuw\Project3\bin\Debug\Project3.exe
+E:\project 3 nieuw\Project3\bin\Debug\Project3.pdb
+E:\project 3 nieuw\Project3\bin\Debug\Elmah.dll
+E:\project 3 nieuw\Project3\bin\Debug\LiveCharts.dll
+E:\project 3 nieuw\Project3\bin\Debug\LiveCharts.Wpf.dll
+E:\project 3 nieuw\Project3\bin\Debug\MySql.Data.dll
+E:\project 3 nieuw\Project3\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+E:\project 3 nieuw\Project3\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+E:\project 3 nieuw\Project3\bin\Debug\MySql.Web.dll
+E:\project 3 nieuw\Project3\bin\Debug\Google.Protobuf.dll
+E:\project 3 nieuw\Project3\bin\Debug\LiveCharts.pdb
+E:\project 3 nieuw\Project3\bin\Debug\LiveCharts.xml
+E:\project 3 nieuw\Project3\bin\Debug\LiveCharts.Wpf.pdb
+E:\project 3 nieuw\Project3\bin\Debug\LiveCharts.Wpf.xml
+E:\project 3 nieuw\Project3\bin\Debug\MySql.Data.xml
+E:\project 3 nieuw\Project3\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\project 3 nieuw\Project3\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+E:\project 3 nieuw\Project3\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+E:\project 3 nieuw\Project3\bin\Debug\MySql.Web.xml
+E:\project 3 nieuw\Project3\obj\Debug\Project3.csprojAssemblyReference.cache
+E:\project 3 nieuw\Project3\obj\Debug\Project3.exe.config
+E:\project 3 nieuw\Project3\obj\Debug\Project3.Form1.resources
+E:\project 3 nieuw\Project3\obj\Debug\Project3.Form2.resources
+E:\project 3 nieuw\Project3\obj\Debug\Project3.Form4.resources
+E:\project 3 nieuw\Project3\obj\Debug\Project_3.Form5.resources
+E:\project 3 nieuw\Project3\obj\Debug\Project3.Properties.Resources.resources
+E:\project 3 nieuw\Project3\obj\Debug\Project3.csproj.GenerateResource.cache
+E:\project 3 nieuw\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+E:\project 3 nieuw\Project3\obj\Debug\Project3.csproj.CopyComplete
+E:\project 3 nieuw\Project3\obj\Debug\Project3.exe
+E:\project 3 nieuw\Project3\obj\Debug\Project3.pdb
